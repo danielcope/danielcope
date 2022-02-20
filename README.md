@@ -1,7 +1,4 @@
-### Daniel Cope
-# Web Developer
-
-Full stack web developer.
+# Full Stack Web Developer
 
 ## My main stack
 - React
@@ -13,17 +10,17 @@ Full stack web developer.
 - PostgreSQL
 
 ## Experience
-# Hinge Software - https://hingeplayground.com/
+### Hinge Software - https://hingeplayground.com/
 
-● Re-engineered a user focused React front-end, using CSS, and React Router
+● Re-engineered a user focused React front-end, using CSS, and React Router <br></br>
 ● Utilized Amazon Web Services (Lambda, SES, and API Gateway) to set up server-less functionality
 
-# Roadrunners Trucking - https://www.roadrunnerstrucks.com/
+### Roadrunners Trucking - https://www.roadrunnerstrucks.com/
 
 ● Built a responsive React website frontend from a mockup while implementing a mobile and tablet view
 ● Utilized Figma to design a responsive, modern UI for a better user experience
 
-# Adventure Pack - https://adventurequestlog.com/
+### Adventure Pack - https://adventurequestlog.com/
 
 ● Integrated a React front end with CSS for responsive styling, Redux for state management, and Axios for
 server requests
