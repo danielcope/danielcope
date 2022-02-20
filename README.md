@@ -1,5 +1,5 @@
 # ✨ Hi! I'm Daniel Cope ✨ 
-### <a href="https://www.linkedin.com/in/danielacope/" target="_blank" rel="noreferrer noopener" >LinkedIn</a> | <a href="https://www.danielcopedev.com/" target="_blank" rel="noreferrer noopener">Portfolio</a> | <a href="https://www.instagram.com/daniel_ashton_cope/" target="_blank" rel="noreferrer noopener">Instagram</a> | 
+### <a href="https://www.linkedin.com/in/danielacope/" target="_blank" rel="noreferrer noopener" >LinkedIn</a> | <a href="https://www.danielcopedev.com/" target="_blank" rel="noreferrer noopener">Portfolio</a> | <a href="https://www.instagram.com/daniel_ashton_cope/" target="_blank" rel="noreferrer noopener">Instagram</a>
 
 
 I am a full stack web developer based in the United States.
