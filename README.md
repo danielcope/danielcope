@@ -1,26 +1,15 @@
-# Hi! I'm Daniel Cope
+# ✨ Hi! I'm Daniel Cope ✨ 
+### <a href="https://www.linkedin.com/in/danielacope/" target="_blank" rel="noreferrer noopener" >LinkedIn</a> | <a href="https://www.danielcopedev.com/" target="_blank" rel="noreferrer noopener">Portfolio</a> | <a href="https://www.instagram.com/daniel_ashton_cope/" target="_blank" rel="noreferrer noopener">Instagram</a>
+
 
 I am a full stack web developer based in the United States.
 
 ## My main stack
 > React | Redux | React Routing | React Native | Android Studio | Expo CLI | JavaScript | HTML5 | CSS3 | Node.js | Express | Express Sessions | Massive | dotenv | Bcrypt | Amazon Web Services (AWS) | JSON | RESTful API | PostgreSQL
 
-## Experience
-### Hinge Software - https://hingeplayground.com/
+## What I'm focusing on
 
-● Re-engineered a user focused React front-end, using CSS, and React Router <br/>
-● Utilized Amazon Web Services (Lambda, SES, and API Gateway) to set up server-less functionality
-
-### Roadrunners Trucking - https://www.roadrunnerstrucks.com/
-
-● Built a responsive React website frontend from a mockup while implementing a mobile and tablet view<br/>
-● Utilized Figma to design a responsive, modern UI for a better user experience
-
-### Adventure Pack - https://adventurequestlog.com/
-
-● Integrated a React front end with CSS for responsive styling, Redux for state management, and Axios for
-server requests<br/>
-● Drafted and queried relational database with PostgreSQL
+Currently, I'm working on my front end skills. Specially, I've been learning and practicing React Native and Tailwindcss. <br/>
 
 
 
