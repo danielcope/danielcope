@@ -1,10 +1,8 @@
 # Hi! I'm Daniel Cope
 
-I am a full stack web developer based in the United States. I have worked remote for a while. 
+I am a full stack web developer based in the United States.
 
-I have a
-
-> ## My main stack
+## My main stack
 > React | Redux | React Routing | React Native | Android Studio | Expo CLI | JavaScript | HTML5 | CSS3 | Node.js | Express | Express Sessions | Massive | dotenv | Bcrypt | Amazon Web Services (AWS) | JSON | RESTful API | PostgreSQL
 
 ## Experience
