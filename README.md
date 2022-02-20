@@ -1,4 +1,36 @@
-### Hi there 👋
+### Daniel Cope
+# Web Developer
+
+Full stack web developer.
+
+## My main stack
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Node.js
+- Express
+- PostgreSQL
+
+## Experience
+# Hinge Software - https://hingeplayground.com/
+
+● Re-engineered a user focused React front-end, using CSS, and React Router
+● Utilized Amazon Web Services (Lambda, SES, and API Gateway) to set up server-less functionality
+
+# Roadrunners Trucking - https://www.roadrunnerstrucks.com/
+
+● Built a responsive React website frontend from a mockup while implementing a mobile and tablet view
+● Utilized Figma to design a responsive, modern UI for a better user experience
+
+# Adventure Pack - https://adventurequestlog.com/
+
+● Integrated a React front end with CSS for responsive styling, Redux for state management, and Axios for
+server requests
+● Drafted and queried relational database with PostgreSQL
+
+
+
 
 <!--
 **danielcope/danielcope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +47,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-rawr
